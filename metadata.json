@@ -1,0 +1,6 @@
+{
+  "name": "QuantPulse Pro - Market Intelligence & Probabilistic Decision Engine",
+  "description": "Production-grade quantitative market analysis, multi-timeframe regime detection, statistical strategy backtesting, and probabilistic trade setup validation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
